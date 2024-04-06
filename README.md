@@ -1,1 +1,1 @@
-# aibs_thalamus_merfish
+# Thalamus MERFISH Exploratory Analysis
